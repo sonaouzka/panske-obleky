@@ -60,3 +60,16 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+
+
+
+/* styl barev */
+.color-box {
+  height: 45px;
+  width: 45px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid white;
+}
